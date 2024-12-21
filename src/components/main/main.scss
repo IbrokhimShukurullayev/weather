@@ -115,11 +115,6 @@
       position: absolute;
       top: 0;
       right: 0px;
-      width: 100%;
-      @media (min-width: 1000px) {
-        right: -300px;
-        top: -50px;
-      }
     }
   }
 }
